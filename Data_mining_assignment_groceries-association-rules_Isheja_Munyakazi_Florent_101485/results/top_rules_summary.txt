@@ -1,0 +1,23 @@
+HIGHEST CONFIDENCE RULE
+antecedents    citrus fruit, root vegetables
+consequents                 other vegetables
+support                             0.010371
+confidence                          0.586207
+lift                                3.029608
+Name: 4, dtype: object
+
+HIGHEST LIFT RULE
+antecedents    citrus fruit, other vegetables
+consequents                   root vegetables
+support                              0.010371
+confidence                           0.359155
+lift                                 3.295045
+Name: 0, dtype: object
+
+HIGHEST SUPPORT RULE
+antecedents          whole milk
+consequents    other vegetables
+support                0.074835
+confidence             0.292877
+lift                   1.513634
+Name: 158, dtype: object
